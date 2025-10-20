@@ -1,4 +1,5 @@
 streamlit
 nltk
-re
 pickle
+pandas
+scikit-learn
